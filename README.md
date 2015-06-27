@@ -1,6 +1,8 @@
 ## Humdrum is the game that wants you to stop playing.
 
+
 ### Gameplay
+
 The game begins with the ticking of a clock that plays throughout the game. The player is immediately introduced to the objective of the game and a warning
 
 "...ALL YOU DO IS PUT CUBES INTO A PINK VORTEX... THIS IS BORING..."
@@ -15,7 +17,7 @@ If the user places all 500 cubes into the vortex the pink vortex disappears, and
 
 If the player responds they are taken to a black screen with nothing but the words "Humdrum by Sol Kim" and the monotonous ticking.
 
-## Concept
+### Concept
 
 This project was created as a way for the author to find out what motivates people to play games.
 
@@ -26,6 +28,7 @@ The game was displayed on a laptop and placed in a dark, secluded art space for 
 Answers ranged from "because I do what I want" to "I didn't want to feel alone"
 
 ### Improvements
+
 - Rewrite introduction (too long and wordy)
 - Create bot with more authentic artificial intelligence (presently runs through a pre-written script to simulate artificial intelligence) to talk to user
 - Question screen presently does not allow backspacing

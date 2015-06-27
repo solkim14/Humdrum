@@ -5,7 +5,7 @@
 
 The game begins with the ticking of a clock that plays throughout the game. The player is immediately introduced to the objective of the game and a warning
 
-"...ALL YOU DO IS PUT CUBES INTO A PINK VORTEX... THIS IS BORING..."
+"...ALL YOU DO IS PUT CUBES INTO A PINK VORTEX... THIS IS BORING..." (abridged)
 
 and an invitation to exit the game.
 

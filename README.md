@@ -17,6 +17,8 @@ If the user places all 500 cubes into the vortex the pink vortex disappears, and
 
 If the player responds they are taken to a black screen with nothing but the words "Humdrum by Sol Kim" and the monotonous ticking.
 
+============================
+
 ### Concept
 
 This project was created as a way for the author to find out what motivates people to play games.
@@ -26,6 +28,8 @@ The game collects data on how many people start the game, how many people finish
 The game was displayed on a laptop and placed in a dark, secluded art space for people, primarily students, to try at their leisure. Surprisingly, for a game that tries desperately to get the user to stop playing, about 25% finished.
 
 Answers ranged from "because I do what I want" to "I didn't want to feel alone"
+
+============================
 
 ### Improvements
 
